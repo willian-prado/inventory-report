@@ -23,7 +23,7 @@ Além disso, o relatório final deverá poder ser gerado em duas versões: simpl
 
 **Tecnologia utilizada**
 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" height="35" align="center"/> - Python</a> 
+- <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" height="35" align="center"/> - Python</a> 
 
 *Projeto desenvolvido em dupla com Adryan Rosa.*
 
