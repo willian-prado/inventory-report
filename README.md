@@ -157,7 +157,7 @@ iterator = iter(inventory)
 first_item = next(iterator)
 ```
 
-## Bônus:
+#### Bônus:
 
 #### 8 - Preencha a função `main` no módulo `inventory_report/main.py` que, ao receber pela linha de comando o caminho de um arquivo e o tipo de relatório, devolve o relatório correto.
 
