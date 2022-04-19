@@ -1,4 +1,4 @@
-## Projeto Job Insights
+## Projeto Inventory Report
 
 > Segundo projeto do módulo de Ciência da Computação do curso de desenvolvimento web da Trybe.
 
