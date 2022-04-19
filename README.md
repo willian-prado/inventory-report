@@ -4,7 +4,7 @@
 
 **Contexto**
 
-Em nosso segundo projeto em dupla no curso, devemos praticar nossas habilidades com manipulação de arquivos de vários formatos utilizando conceitos do paradigma Programação Orientada a Objetos, como `classes`, `instâncias`, `métodos abstratos`, `métodos de classe`, `métodos estáticos`, `interface` e mais.
+Este é o nosso segundo projeto em dupla no curso. Nesse trabalho devemos praticar nossas habilidades com manipulação de arquivos utilizando conceitos do paradigma Programação Orientada a Objetos, como `classes`, `instâncias`, `métodos abstratos`, `métodos de classe`, `métodos estáticos`, `interfaces` e mais.
 
 **Objetivo do projeto**
 
