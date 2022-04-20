@@ -18,8 +18,8 @@ Além disso, o relatório final deverá poder ser gerado em duas versões: simpl
 **Principais habilidades desenvolvidas nesse trabalho**
 
 - Aprender sobre paradigmas de programação;
-- Conceitos de Programação Orientada a Objetos na prática, como criação de classes e instâncias;
-- Leitura e escria de arquivos.
+- Aplicar conceitos de Programação Orientada a Objetos, como criação de classes e instâncias;
+- Ler e escrever arquivos com Python.
 
 **Tecnologia utilizada**
 
