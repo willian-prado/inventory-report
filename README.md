@@ -1,6 +1,6 @@
 ## Projeto Inventory Report
 
-> Segundo projeto do módulo de Ciência da Computação do curso de desenvolvimento web da Trybe.
+> Segundo projeto do módulo de Ciência da Computação do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
@@ -25,7 +25,7 @@ Além disso, o relatório final deverá poder ser gerado em duas versões: simpl
 
 - <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" height="35" align="center"/> - Python</a> 
 
-*Projeto desenvolvido em dupla com Adryan Rosa.*
+*Projeto desenvolvido em dupla com [Adryan Rosa](https://github.com/adryanrosa).*
 
 ---
 
@@ -174,3 +174,7 @@ $ inventory_report <caminho_do_arquivo_input> <tipo_de_relatório>
 📌 A função `sys.argv` deve ser utilizada para receber a entrada de dados da pessoa usuária.
 
 ✍️  Teste manual: dentro de um ambiente virtual onde seu projeto foi configurado, digite o comando `inventory_report parametro_1 parametro_2`, assim você conseguirá interagir com o menu.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
